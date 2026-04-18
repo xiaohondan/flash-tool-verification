@@ -108,7 +108,7 @@ xiaohondan@skymail.ink
 
 www.xiaohondan.com
 
-xiaohondan.github.io
+www.xiaohondan.github.io
 ## 更新日志
 # v1.0 
 首次发布稳定版本
